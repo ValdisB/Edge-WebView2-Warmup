@@ -41,3 +41,7 @@ When added to Windows Startup or Task Scheduler, it improves the initial respons
 ## Changelog
 ### 1.0.0
 - Initial release
+
+## Support
+If you find this project useful, support it here:
+https://paypal.me/ValdisBerzinsh
